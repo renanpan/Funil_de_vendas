@@ -1,11 +1,11 @@
-## Project 10
+## Projeto 10
 
-This project is about my bootcamp of data analysis where I must check the users behavior on the company app.
+Neste projeto tive a oportunidade de estudar a viabilidade de diferentes estabelecimentos do ramo de restaurantes adotarem robos garçons para atenderem seus clientes. Qual o melhor tipo de estabelecimento para os robôs? Qual o melhor tamanho desses estabelecimentos para a adoção desses robos? Qual a melhor localização desses estabelecimentos?
 
-### About the files
- - The 'sprint_10_project' file is the main project written using jupyter notebook.
- - The 'logs_exp_us' file contains all the data for the project.
+### Sobre os arquivos
+ - O ficheiro 'sprint_10_project' é o projeto principal escrito com jupyter notebook.
+ - O ficheiro 'logs_exp_us' contém todos os dados do projeto.
 
-### Executing it
+### Executando-o
 
-To execute the project I recommend you download the files and save in a folder in your computer. Make sure to have both files in the same folder and then open the 'sprint_10_project' using VS Code, for example, and then run the code.
+Para executar o projeto, recomendo que descarregue os ficheiros e os guarde numa pasta do seu computador. Certifique-se de que ambos os ficheiros se encontram na mesma pasta e, em seguida, abra o "sprint_10_project" utilizando o VS Code, por exemplo, e execute o código.
